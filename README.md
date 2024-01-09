@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Text Utils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Some of its features will be:
 
 Word Counting.
@@ -9,7 +8,6 @@ Capitalizing the text of the document.
 Adding Lowercase and uppercase to the text.
 
 
-## Available Scripts
 
 In the project directory, you can run:
 
